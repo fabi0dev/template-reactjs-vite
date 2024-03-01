@@ -1,2 +1,2 @@
-# template-reactjs-vite
-Estrutura inicial de uma aplicação reactjs com vite.
+# InSound Web
+Aplicativo de música integrado com o Deezer.
